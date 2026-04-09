@@ -1,6 +1,6 @@
 ## Hi, I'm Lídio 👋 👨🏾‍💻
 
-<img width="1600" height="896" alt="Design sem nome" src="https://github.com/user-attachments/assets/3dbb64e2-e01a-400a-bb56-874f48af2373" />
+<img width="1584" height="396" alt="Black and White Simple Art Director LinkedIn Banner" src="https://github.com/user-attachments/assets/265ac582-245c-4568-9dd3-b81866bba102" />
 
 ---
 
