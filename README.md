@@ -16,7 +16,10 @@ oportunidade para contribuir com soluções eficientes e evoluir profissionalmen
 
 💻 **Back-end & Frameworks**  
 - Laravel  
-- PHP  
+- PHP
+- JAVA
+- C#
+- C++
 
 🗄️ **Banco de Dados**  
 - MySQL  
@@ -26,8 +29,10 @@ oportunidade para contribuir com soluções eficientes e evoluir profissionalmen
 - HTML5  
 - CSS3  
 - Bootstrap  
-- Bulma  
-- JavaScript  
+- Bulma
+- TailWindcss
+- JavaScript
+- React
 
 🛠️ **Ferramentas & Controle de Versão**  
 - Git  
