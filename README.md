@@ -5,8 +5,10 @@
 ---
 
 ## 👨‍💻 About Me
-Sou um programador Freelancer apaixonado por tecnologia e desenvolvimento de sistemas.  
-Atualmente estudo **Engenharia Informática** e busco oportunidades para crescer como **Full-Stack Developer**.
+**Desenvolvedor Web Fullstack** com experiência no desenvolvimento e manutenção de sistemas web
+e desktop, com foco em backend utilizando **PHP** e **Laravel**. Experiência na criação de sistemas de
+gestão, resolução de problemas técnicos e melhoria de desempenho de aplicações. Busco
+oportunidade para contribuir com soluções eficientes e evoluir profissionalmente.
 
 ---
 
