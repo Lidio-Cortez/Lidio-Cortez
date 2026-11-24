@@ -1,6 +1,6 @@
 ## Hi, I'm Lídio 👋 👨🏾‍💻
 
-<img width="1584" height="396" alt="Black and White Simple Art Director LinkedIn Banner" src="Prof.jpg" />
+<img width="1584" height="396" alt="Black and White Simple Art Director LinkedIn Banner" src="prof.jpeg" />
 
 ---
 
